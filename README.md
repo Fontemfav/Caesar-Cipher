@@ -143,13 +143,3 @@ plain  = decrypt(cipher, 3)           # Hello, World!
 # Notes & Security
 - Caesar cipher is an educational cipher — not secure by modern standards.
 - For real encryption use proven algorithms (AES, RSA) and established libraries.
-
----
-
-Would you like me to:
-- generate a ready-to-paste `README.md` with badges and examples?
-- add a simple GUI (Tkinter) or web demo (Flask) to show encryption live?
-- produce tests or expand to Vigenère cipher (a stronger classical cipher)?
-
-Pick one and I’ll generate it right away.
-```
